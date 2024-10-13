@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FuelCalculator</string>
+    <string name="txt_name">Adriano Maciel Sanchez</string>
+    <string name="txt_ra">1110482313018</string>
+    <string name="et_gasoline">Gasoline price</string>
+    <string name="et_ethanol">Ethanol price</string>
+    <string name="txt_result">The best choice is </string>
+    <string name="bt_calculate">Calculate</string>
+    <string name="str_result_gasoline">Gasoline</string>
+    <string name="str_result_ethanol">Ethanol</string>
+</resources>
